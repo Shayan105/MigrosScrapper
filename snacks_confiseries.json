@@ -7100,6 +7100,16 @@
         "image_url": "https://image.migros.ch/d/mo-custom/v-w-175-h-150/o-af-1-t.clr-fff/9fd00cb7584a4b3835b801f67ec0ecf761363975/bio-mais-puffs-sales.jpg"
     },
     {
+        "id": "105220200000",
+        "brand": "Sun Queen",
+        "name": "Fruit Exotic",
+        "price": 5.1,
+        "quantity": "200g",
+        "price_per_unit": 2.55,
+        "unit": "100g",
+        "image_url": "https://image.migros.ch/d/mo-custom/v-w-175-h-150/o-af-1-t.clr-fff/b1f3a1c0afb8b88ab011ed38da6371bb6d07132a/sun-queen-fruit-exotic-seche-et-sucre.jpg"
+    },
+    {
         "id": "101558700000",
         "brand": "Frey",
         "name": "Branches",
@@ -8228,16 +8238,6 @@
         "price_per_unit": null,
         "unit": null,
         "image_url": "https://image.migros.ch/d/mo-custom/v-w-175-h-150/o-af-1-t.clr-fff/76ff8cbb1f0ef31bea655f4b5536a223c67dcb85/frey-les-adorables-marc-de-champagne-chocolat-au-lait-fourre.jpg"
-    },
-    {
-        "id": "105220200000",
-        "brand": "Sun Queen",
-        "name": "Fruit Exotic",
-        "price": 5.1,
-        "quantity": "200g",
-        "price_per_unit": 2.55,
-        "unit": "100g",
-        "image_url": "https://image.migros.ch/d/mo-custom/v-w-175-h-150/o-af-1-t.clr-fff/b1f3a1c0afb8b88ab011ed38da6371bb6d07132a/sun-queen-fruit-exotic-seche-et-sucre.jpg"
     },
     {
         "id": "110573800000",
