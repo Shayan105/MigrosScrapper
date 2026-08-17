@@ -313,6 +313,9 @@ def get_current_deals(
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
 
+@app.get("/")
+def read_root():
+    return {"status": "ok", "message": "Migros Scraper API is running"}
 
 @app.get("/stats", tags=["Metadata"], summary="Get overall database stats")
 def get_db_stats():
